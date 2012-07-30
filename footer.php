@@ -20,10 +20,10 @@
 <div class="content">
 <p>&nbsp;<br>
 &nbsp;<br>
-<a href="http://www.metitree.nl:8080/metitree-public"><img
+<a href="http://www.metitree.nl:8080/metitree"><img
 	src="./logo_metitree.png" align="right"
 	border="0" width="280px"></a></p>
-<div align="right"><a href="http://www.metitree.nl:8080/metitree-public">...see
+<div align="right"><a href="http://www.metitree.nl:8080/metitree">...see
 it in action</a></div>
 </div>
 </div>
