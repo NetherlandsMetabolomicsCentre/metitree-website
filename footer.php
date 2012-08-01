@@ -78,7 +78,7 @@ Thomas Hankemeier and Theo Reijmers.<br>
 	</div>
 </div>
 
-<div class="footer-area third"><!--
+<div class="footer-area third">
 	<div class="region region-footer-third">
 		<div id="block-block-4" class="clear-block block block-block">
 
@@ -86,13 +86,12 @@ Thomas Hankemeier and Theo Reijmers.<br>
 
 			<div class="content">
 				<p>
-					<a target="_blank" href="http://pubs.acs.org/doi/abs/10.1021/ac2034216">Metabolite identification using automated comparison of high resolution MSn spectral trees</a>, 2012, <i><b>Analytical Chemistry</b></i>, Miguel Rojas-Cherto, Julio E. Peironcely, Piotr T. Kasper, Justin Johan Jozias van der Hooft, Ric C.H. De Vos, Rob J Vreeken, Thomas Hankemeier, and Theo Reijmers.<br>
-					[ <a target="_blank" href="http://pubs.acs.org/doi/abs/10.1021/ac2034216">article</a> - <a target="_blank" href="http://pubs.acs.org/doi/pdfplus/10.1021/ac2034216">pdf</a> ]
+					<a target="_blank" href="http://bioinformatics.oxfordjournals.org/content/early/2012/07/31/bioinformatics.bts486">MetiTree: a web application to organize and process high resolution multi-stage mass spectrometry metabolomics data</a>, 2012, <i><b>Bioinformatics</b></i>, Miguel Rojas-Cherto, Michael van Vliet, Julio E. Peironcely, Ronnie van Doorn, Maarten Kooyman, Tim te Beek, Marc A. van Driel, Thomas Hankemeier, and Theo Reijmers.<br>
+					[ <a target="_blank" href="http://bioinformatics.oxfordjournals.org/content/early/2012/07/31/bioinformatics.bts486">article</a> - <a target="_blank" href="http://bioinformatics.oxfordjournals.org/content/early/2012/07/31/bioinformatics.bts486.full.pdf+html">pdf</a> ]
 				</p>
 			</div>
 		</div>
 	</div>
-	-->
 </div>
 </div>
 </div>
