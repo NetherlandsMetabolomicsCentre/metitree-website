@@ -63,6 +63,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 1990,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "news.php",
+			"settings":
+			{
+				"buffer_size": 2954,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -140,6 +156,7 @@
 	},
 	"file_history":
 	[
+		"/Users/miv/Documents/workspace-pdt/metitree-site/screenshots.php",
 		"/Users/miv/Documents/workspace-sublime/metalektro.info/application/config/autoload.php",
 		"/Users/miv/Documents/workspace-sublime/metalektro.info/application/controllers/leercultuur.php",
 		"/Users/miv/Documents/workspace-sublime/metalektro.info/application/views/leercultuur/start.php",
@@ -208,8 +225,65 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "header.php",
+					"settings":
+					{
+						"buffer_size": 1990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1298,
+								1298
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "news.php",
+					"settings":
+					{
+						"buffer_size": 2954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								471,
+								471
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
