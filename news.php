@@ -5,6 +5,19 @@
     <div class="field field-name-body field-type-text-with-summary field-label-hidden">
         <div class="field-items">
             <div class="field-item even" property="content:encoded">
+                <div style="margin-left:20px; float: right">November 23th, 2012</div>
+                    <h1>Powerful tool for identifying unknown metabolites</h1>
+                    <a href="http://www.nbic.nl/uploads/media/Interface9.pdf" target="_blank"><img style="border: thin solid #dcdcdc; float: right; margin: 2px 0 10px 10px;" src="./img/metitree_interface_nov_2012.jpg"></a>
+                    <b>An interview with <a href="http://www.linkedin.com/pub/theo-reijmers/42/811/260" target="_blank">T.Reijmers</a> about Metitree in NBIC's magazine Interface</b><br /><br />
+                    Contemporary metabolomics research is faced with great challenges. Individual metabolites in complex mixtures need to be analysed and identified. Liquid chromatography combined with multistage mass spectrometry (MSn) appears to be a useful approach, especially since the availability of a promising tool for organising, processing, sharing, visualising and comparing MSn data.<br /><br />
+                    <b>Acknowledgement</b><br />
+                    NBIC magazine Interface ( - <i>page 17</i> - )<br /><br />
+                    More about NBIC's Interface magazine can be found and downloaded from: <a href="http://www.nbic.nl/about-nbic/news-press/nbic-magazine/" target="_blank">http://www.nbic.nl/about-nbic/news-press/nbic-magazine/</a>
+                    <br /><br />
+                    <a href="http://www.nbic.nl/uploads/media/Interface9.pdf" target="_blank">download issue 9 | November 2012... <img width="45px" style="border: thin solid #dcdcdc;" src="./img/adobe_pdf_icon.png"></a>
+            </div>
+            <div style="margin: 60px 0;"><hr></div>
+            <div class="field-item even" property="content:encoded">
                 <div style="margin-left:20px; float: right">November 16th, 2012</div>
                 <h1>An automated Metabolite Identification Pipeline using Mass Spectral Trees</h1>
                 <a href="./resources/Montreux2012_MI.pdf" target="_blank"><img style="border: thin solid #dcdcdc; float: right; margin: 2px 0 10px 10px;" src="./img/msn_montreux_2012.jpg"></a>
