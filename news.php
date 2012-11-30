@@ -14,7 +14,7 @@
                     NBIC magazine Interface ( - <i>page 17</i> - )<br /><br />
                     More about NBIC's Interface magazine can be found and downloaded from: <a href="http://www.nbic.nl/about-nbic/news-press/nbic-magazine/" target="_blank">http://www.nbic.nl/about-nbic/news-press/nbic-magazine/</a>
                     <br /><br />
-                    <a href="http://www.nbic.nl/uploads/media/Interface9.pdf" target="_blank">download issue 9 | November 2012... <img width="45px" style="border: thin solid #dcdcdc;" src="./img/adobe_pdf_icon.png"></a>
+                    <a href="./resources/IF9_p17.pdf" target="_blank">download issue 9 - page 17 | November 2012 <img width="45px" style="border: thin solid #dcdcdc;" src="./img/adobe_pdf_icon.png"></a>
             </div>
             <div style="margin: 60px 0;"><hr></div>
             <div class="field-item even" property="content:encoded">
