@@ -21,7 +21,7 @@
 <div id="header">
 <div id="header-inside">
 <div id="header-inside-left">
-<div class="clearfix"><span id="site-name"><a href="http://www.metitree.nl/" title="Home">Metitree</a></span> <span id="slogan">...an initiative of the Netherlands Metabolomics Center</span>
+<div class="clearfix"><span id="site-name"><a href="/" title="Home">Metitree</a></span> <span id="slogan">...an initiative of the Netherlands Metabolomics Centre</span>
 </div>
 </div>
 <div id="header-inside-right"></div>
@@ -32,7 +32,6 @@
 <ul class="menu">
 	<li class="first leaf"><a href="/" class="active">Home</a></li>
 	<li class="leaf"><a href="news.php">News</a></li>
-	<li class="leaf"><a target="_blank" href="http://www.metitree.nl:8080/metitree">Demo</a></li>
 	<li class="leaf"><a target="_blank" href="https://github.com/NetherlandsMetabolomicsCentre/metitree">Download</a></li>
 	<li class="leaf"><a href="screenshots.php">Screenshots</a></li>
 	<li class="last leaf"><a href="feedback.php" title="">Feedback</a></li>
